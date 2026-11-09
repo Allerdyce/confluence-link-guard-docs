@@ -1,4 +1,4 @@
-# Atlassian Marketplace Pricing Table — External Share, Guest Access & Link Expiry Guard for Confluence
+# Atlassian Marketplace Pricing Table — External Share, Guest Access & Link Expiry Guard
 
 ## Pricing Model Overview
 - **Billing Engine**: Atlassian Marketplace Cloud Per-User Progressive Tiered Pricing (`app.licensing.enabled: true`)
